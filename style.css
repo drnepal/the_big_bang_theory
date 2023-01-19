@@ -7,3 +7,15 @@ header{
     text-align: center;
     margin:auto 0;
 }
+
+img{
+    height: 300px;
+    width: 270px;
+    padding:15px;
+    margin-left: 100px;
+
+}
+.image_in_basket{
+    display:flex
+    align-content:center;
+}
