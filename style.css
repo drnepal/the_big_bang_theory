@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://www.worldatlas.com/upload/cf/0d/2a/shutterstock-2108992679.jpg);
+}
+header{
+    font-size: 20px;
+    color:red;
+    text-align: center;
+    margin:auto 0;
+}
