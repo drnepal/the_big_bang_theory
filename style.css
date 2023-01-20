@@ -1,6 +1,15 @@
 body{
     background-image: url(https://www.worldatlas.com/upload/cf/0d/2a/shutterstock-2108992679.jpg);
+    max-height: 00px;
+   
 }
+
+form {
+
+
+}
+
+
 header{
     font-size: 20px;
     color:red;
@@ -13,9 +22,20 @@ img{
     width: 270px;
     padding:15px;
     margin-left: 100px;
+    
+}
 
-}
 .image_in_basket{
-    display:flex
-    align-content:center;
-}
+    display: flex;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    }
+/* img {
+    position: relative;
+  }
+  
+  #button 1 {
+    position: absolute;
+    bottom: 10px; 
+    right: 10px; 
+  } */
